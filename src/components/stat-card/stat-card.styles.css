@@ -1,0 +1,19 @@
+.stat-card {
+    background-color: white;
+    border-radius: 1rem;
+    padding: 2rem 1rem;
+    width: 48%;
+    margin-bottom: 1rem;
+}
+
+.stat-card-title {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: .5rem .5rem 1rem;
+}
+
+.stat-card-details {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: .5rem;
+}

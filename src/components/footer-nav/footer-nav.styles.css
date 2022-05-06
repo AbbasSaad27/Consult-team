@@ -1,0 +1,21 @@
+.footer-nav {
+    padding: 1rem 1.5rem;
+    background-color: white;
+    box-shadow: 2px 0px 10px 1px #4e4e4e3b;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-icon {
+    width: 3rem;
+    height: 3rem;
+    margin: 0 auto .8rem;
+    display: block;
+}
