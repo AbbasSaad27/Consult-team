@@ -1,0 +1,17 @@
+.price {
+    display: block;
+    margin-bottom: auto;
+}
+
+.price-time-container {
+    color: #d1d1d1;
+    font-size: 1.2rem;
+}
+
+.date {
+    margin-right: 1rem;
+}
+
+.time-format {
+    margin-left: .5rem;
+}

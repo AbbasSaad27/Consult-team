@@ -13,7 +13,7 @@ const FooterNav = () => {
     return (
         <footer className="footer-nav">
             <ul className="navigation">
-                <li className="nav-item nav-item1">
+                <li className="nav-item nav-item1 nav-item-active">
                     <DashboardIcon className="nav-icon" />
                     <p>Dashboard</p>
                 </li>
