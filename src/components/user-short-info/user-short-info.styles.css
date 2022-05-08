@@ -1,0 +1,12 @@
+.user-short-info-container {
+    font-size: 1.4rem;
+    margin-left: 1rem;
+}
+
+.user-name {
+    margin-bottom: .3rem;
+}
+
+.user-work {    
+    color: #949494;
+}

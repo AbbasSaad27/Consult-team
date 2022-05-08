@@ -18,3 +18,12 @@ body {
 ul {
   list-style: none;
 }
+
+.ml-1 {
+  margin-left: 1.5rem;
+}
+
+.btn {
+  border: none;
+  background-color: white;
+}

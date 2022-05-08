@@ -1,0 +1,42 @@
+.justify-none {
+    justify-content: unset;
+}
+
+.arrow-left {
+    width: 3rem;
+}
+
+.sessions-header {
+    flex-direction: column;
+    align-items: unset;
+    padding-bottom: 0;
+    padding: 0;
+}
+
+.head-top {
+    display: flex;
+    align-items: center;
+    padding: 2rem 1rem 0;
+}
+
+.page-navigation-tab {
+    display: flex;
+}
+
+.tab-btn {
+    flex: 1;
+    padding: 2rem 1rem;
+    border-bottom: 4px solid #dbdbdb;
+    font-size: 1.6rem;
+    color: #dbdbdb;
+    transition: all 0.3s;
+}
+
+.tab-active {
+    border-color: #444444;
+    color: #444444;
+}
+
+.classes-container {
+    padding: 1rem 1rem 0;
+}

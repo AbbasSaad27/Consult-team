@@ -8,9 +8,9 @@ import "./user-pfp.styles.css"
 const UserPfp = () => {
     return (
         <div className="userPfp-container">
-            <UserIcon />
+            <UserIcon className="user-icon"/>
         </div>
     )
 }
 
-export default UserPfp
+export default UserPfp;

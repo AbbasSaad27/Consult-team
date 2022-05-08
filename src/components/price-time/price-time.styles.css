@@ -1,11 +1,15 @@
 .price {
     display: block;
     margin-bottom: auto;
+    margin-left: auto;
 }
 
 .price-time-container {
-    color: #d1d1d1;
-    font-size: 1.2rem;
+    color: #949494;
+    font-size: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .date {
