@@ -25,6 +25,11 @@ const SessionsPage = () => {
             </div>
             <div className="classes-container">
                 <CardClass />
+                <CardClass />
+                <CardClass />
+                <CardClass />
+                <CardClass />
+                <CardClass />
             </div>
             <FooterNav />
         </div>

@@ -19,11 +19,16 @@
 }
 
 .profile-icon {
-    width: 3rem;
-    height: 3rem;
-    border-radius: 50%;
-    background-color: #6d6d6d;
-    padding: .7rem;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+}
+
+.user-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 100%;
 }
 
 .welcome-message {

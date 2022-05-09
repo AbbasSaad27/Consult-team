@@ -27,3 +27,7 @@ ul {
   border: none;
   background-color: white;
 }
+
+.page {
+  padding-bottom: 8rem;
+}
