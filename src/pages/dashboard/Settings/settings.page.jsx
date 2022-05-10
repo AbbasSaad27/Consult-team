@@ -29,7 +29,6 @@ const SettingsPage = () => {
             </div>
 
             <button type="button" className="btn btn-logout">Logout</button>
-            <FooterNav />
         </div>
     )
 }

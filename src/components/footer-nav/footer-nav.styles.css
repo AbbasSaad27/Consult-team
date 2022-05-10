@@ -22,7 +22,11 @@
 
 .nav-item {
     opacity: .4;
-    transition: all 0.3;
+    transition: all 0.3s;
+}
+
+.nav-item * {
+    pointer-events: none;
 }
 
 .nav-item-active {

@@ -1,18 +1,19 @@
+import React from "react"
+import {Route, BrowserRouter as Router, Routes} from "react-router-dom"
 
-// import Dashboard from './pages/dashboard/dashboard.page';
-// import Notification from './pages/dashboard/Notification/notification.page';
-// import SessionsPage from './pages/dashboard/Sessions/sessions.page';
+import "./App.css"
+import Dashboard from "./pages/dashboard/dashboard.page";
 
-import SettingsPage from "./pages/dashboard/Settings/settings.page";
 
 function App() {
   return (
-    <div className="App">
-      {/* <Dashboard /> */}
-      {/* <SessionsPage/> */}
-      {/* <Notification /> */}
-      <SettingsPage />
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/home/*" element={<Dashboard />}/>
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

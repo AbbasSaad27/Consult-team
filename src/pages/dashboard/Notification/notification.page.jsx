@@ -19,7 +19,6 @@ const Notification = () => {
                 <NotificationCard />
                 <NotificationCard />
             </div>
-            <FooterNav />
         </div>
     )
 }

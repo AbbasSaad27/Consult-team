@@ -31,7 +31,6 @@ const SessionsPage = () => {
                 <CardClass />
                 <CardClass />
             </div>
-            <FooterNav />
         </div>
     )
 }

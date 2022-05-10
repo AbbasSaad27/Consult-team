@@ -1,3 +1,7 @@
+.settings-page {
+    min-height: 100%;
+}
+
 .settings-header {
     padding: 2rem 0;
 }
