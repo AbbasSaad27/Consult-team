@@ -5,7 +5,7 @@ import "./notification.styles.css"
 
 const Notification = () => {
     return (
-        <div className="page">
+        <div className="page notification-page">
             <div className="page-header justify-none">
                 <h1 className="page-title mb-0">Notifications</h1>
             </div>
