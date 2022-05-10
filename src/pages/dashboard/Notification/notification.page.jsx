@@ -1,5 +1,4 @@
 import React from "react"
-import FooterNav from "../../../components/footer-nav/footer-nav.component";
 import NotificationCard from "../../../components/notification-card/notification-card.component";
 
 import "./notification.styles.css"

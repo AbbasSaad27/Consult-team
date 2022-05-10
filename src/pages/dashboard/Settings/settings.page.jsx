@@ -1,5 +1,4 @@
 import React from "react"
-import FooterNav from "../../../components/footer-nav/footer-nav.component"
 import NavigationItem from "../../../components/navigation-item/navigation-item.component"
 import UserPfp from "../../../components/user-pfp/user-pfp.component"
 

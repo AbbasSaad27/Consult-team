@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 
 import {ReactComponent as ArrowLeft} from "../../../icons/arrow-left.svg"
-import FooterNav from "../../../components/footer-nav/footer-nav.component"
 
 import "./sessions.styles.css"
 import CardClass from "../../../components/class-card/class-card.component"
